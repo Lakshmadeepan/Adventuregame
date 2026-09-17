@@ -1,0 +1,6 @@
+{
+  "name": "Adventure Quest World: Restore the Realm",
+  "description": "A browser-based 3D third-person fantasy adventure game where you explore, solve environmental puzzles, and restore the lost realm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
